@@ -8,7 +8,7 @@ setup(
   author = 'unfuz3',                   # Type in your name
   author_email = 'mr.mendozamen@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/unfuz3/pybchain',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/unfuz3/pybchain/archive/refs/tags/v_01.tar.gz',
+  download_url = 'https://github.com/unfuz3/pybchain/archive/refs/tags/v0_2.tar.gz',
   keywords = ['blockchain', 'python', 'concept'],   # Keywords that define your package best
   install_requires=[],
   classifiers=[
